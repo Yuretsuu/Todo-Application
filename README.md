@@ -1,2 +1,2 @@
 # Todo-Application
-React Application using Redux and Bootstrap
+React Application in JS using Redux and Bootstrap
